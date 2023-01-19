@@ -1,2 +1,2 @@
-print("Hi! How are you?")
+print("Hello! How are you?")
 s = input()
